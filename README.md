@@ -15,3 +15,6 @@
   git add .
   git commit -m "test"
   git push
+
+สร้างไฟล์ robot
+ใช้คำสั่ง robot ชื่อไฟล์.robot #ดู Port ดีๆ
