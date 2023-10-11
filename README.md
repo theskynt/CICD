@@ -10,3 +10,8 @@
   git checkout  my-feature-01
   git status 
   git push --set-upstream origin my-feature-01   
+
+จากนั้น 
+  git add .
+  git commit -m "test"
+  git push
